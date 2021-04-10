@@ -1,0 +1,38 @@
+- Analisar quais os dados utilizar para comparar com o desempenho no Enem mais 
+	recente(no caso 2014 pois os mais recentes sofreram algumas atualizações e podem ainda estar 'instáveis'):
+	- Estado; 
+	- Renda; 
+	- Sexo; 
+	- Idade; 
+	- Escolaridade;
+	- Escolaridade dos pais; 
+	- Ensino público ou particular; 
+	- Raça; 
+	- Acesso à bens de consumo;
+- Como capturar os dados no Jupyter:
+	- Estudar tratamento de dados;
+- Como comparar os dados obtidos e jogar em tabelas (usar o Tableou, talvez, em versão gratuita de 14 dias);
+- Como começar a escrever:
+	- Dissertar sobre os dados:
+		- Escrever sobre mineração de dados;
+		- Porque usar o Python e o Jupyter;
+		- Escrever sobre a manipulação de dados envolvendo a biblioteca "Pandas" do python; 
+	- Porquê fazer (análise apartidária, transparente e neutra):
+		- Objetivos;
+		- Metodologias (como foi feita a análise de dados);
+		- Desafios de manipular conjuntos grandes de dados;
+	- Resultados(influência das condições socio-econômicas no desempenho escolar e concequentemente a nota do Enem);
+	- Possíveis trabalhos futuros:
+		- Analisar os dados do Enade (Computação);
+		- Analisar como melhorar e/ou criar políticas públicas de ensino e reforço escolar
+		(Serviço Social, Pedagogia, Letras...);
+		- Criar softwares para auxílio de ensino (Computação);  
+		- Criar ou melhorar softwares de análise de dados e estatística (Computação, Estatística);
+		- Criar ou melhorar softwares de ciência de dados e análise financeira (Computação, Administração);
+	- Introdução;
+	- Conclusão;
+	- Resumo (em português e inglês);
+	- Anexos (fotos e tabelas, talvez);
+	- Referências;
+
+
